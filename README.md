@@ -13,13 +13,16 @@ This application allows users to verify their email using OTP (One-Time Password
 Navigate to the Backend Folder
 
 cd backend
+
 npm install i
+
 node server.js
 
 **Setting Up the Frontend**
 Navigate to the Frontend Folder
 
 cd frontend
+
 start index.html
 
 
